@@ -1,9 +1,9 @@
-![Cloud Server](https://img.freepik.com/premium-vector/3d-illustration-cloud-server_1302-14965.jpg?w=1060)
-
 <h1 align="center">Hi👋, I'm Mehwish Nidgundi</h1>
 <h3 align="center">Code, Create, Collaborate</h3>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFiZ3Nxd2l3eW5iNWN6MWMwYzFya2c0aGd0ZXRiYW9yeXhhOG90aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Animated GIF">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehwishferoz&label=Profile%20views&color=0e75b6&style=flat" alt="mehwishferoz" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehwish-nidgundi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehwish-nidgundi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehwish-nidgundi-712372238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehwish-nidgundi" height="30" width="40" /></a>
 <a href="https://instagram.com/mehwish.nidgundi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehwish.nidgundi" height="30" width="40" /></a>
 </p>
 
