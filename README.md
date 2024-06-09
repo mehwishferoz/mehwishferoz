@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehwishferoz&label=Profile%20views&color=0e75b6&style=flat" alt="mehwishferoz" /> </p>
 
-- 🌱 I’m currently learning **Java backend and advanced DSA**
-
 - 📫 How to reach me **mehwish.codes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
